@@ -1,2 +1,3 @@
 Este es un intento de curso de git
 vamos avanzando poco a poco
+estamos empezando a ver la magia
