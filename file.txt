@@ -1,1 +1,2 @@
 Este es un intento de curso de git
+vamos avanzando poco a poco
