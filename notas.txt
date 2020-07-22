@@ -1,0 +1,2 @@
+git add nombreDeArchivo: este comando envia un archivo staging
+git commit -m mensaje: este comando envia los archivos de staging a commit
